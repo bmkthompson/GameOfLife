@@ -6,7 +6,9 @@ Welcome to Conway's Game of Life, in Python!
 
 The controls are simple:
 Click anywhere to manually birth the cells of your choosing. Either click or drag to place your "eggs".
-When you are ready, hit "space" to begin the passage of time. Watch life take it's course!
+When you are ready, hit "space" to begin the passage of time. 
+If some cells are stuck together or in a loop, you can interact with your mouse and spawn some more eggs.
+Hit space to pause the passage of time.
 
 The rules are... a little less simple:
 Any live cell with fewer than two live neighbors dies, as if by underpopulation.
